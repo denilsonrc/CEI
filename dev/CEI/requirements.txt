@@ -1,0 +1,6 @@
+python == 2.7.10
+pip == 7.0.1
+setuptools == 16.0
+django<2 == 1.8.3
+
+#Last update == 07/15/2015
