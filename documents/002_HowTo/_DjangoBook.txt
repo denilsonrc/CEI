@@ -1,0 +1,5 @@
+Tango with Django
+http://www.tangowithdjango.com/
+
+Version 1.7:
+http://www.tangowithdjango.com/book17/
